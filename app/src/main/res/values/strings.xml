@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppApropriacaoHoras</string>
+    <string name="txt_titulo">Aplicativo de Apropriação de Horas</string>
+    <string name="txt_hint_edit_funcao">Função</string>
+    <string name="txt_hint_matricula">Matricula</string>
+    <string name="txt_hint_nome_completo">Nome completo</string>
+    <string name="txt_hint_locacao">Locação</string>
+    <string name="txt_button_limpar">LIMPAR</string>
+    <string name="txt_button_salvar">SALVAR</string>
+</resources>
